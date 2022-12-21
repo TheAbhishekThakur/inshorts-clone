@@ -8,19 +8,19 @@ const Footer = () => {
     <div className="footer">
       <span className="name">
         Inshorts Clone Made By -{" "}
-        <a href="https://www.linkedin.com/in/piyush-eon" target="_blank">
+        <a href="https://www.linkedin.com/in/abhishek-thakur-234b49150" target="_blank" rel="noreferrer">
           Abhishek Thakur
         </a>
       </span>
       <hr style={{ width: "90%" }} />
       <div className="iconContainer">
-        <a href="https://www.instagram.com/roadsidecoder/" target="_blank">
+        <a href="https://www.instagram.com/the_abhishekthakur/" target="_blank" rel="noreferrer">
           <InstagramIcon />
         </a>
-        <a href="https://www.instagram.com/roadsidecoder/" target="_blank">
+        <a href="https://www.linkedin.com/in/abhishek-thakur-234b49150" target="_blank" rel="noreferrer">
           <LinkedInIcon />
         </a>
-        <a href="https://www.instagram.com/roadsidecoder/" target="_blank">
+        <a href="https://github.com/TheAbhishekThakur" target="_blank" rel="noreferrer">
           <InsertLinkIcon />
         </a>
       </div>
